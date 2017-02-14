@@ -4,6 +4,7 @@ Raphael Gomide - github.com/rrgomide
 Luiz Miguel - github.com/luizmiguelsl
 Bruno Feliciano - github.com/bro4lves
 Alexandre Victor - github.com/AlexandreVictor
+Alexandre Gonçalves Pires - github.com/AGPires
 https://github.com/dimesmello/dimes.mello
 Rafael Afonso Marques - github.com/rafaelmarques94
 Francis Lucas - github.com/francislucasbr
@@ -12,4 +13,3 @@ github.com/IgorSantosVital
 Marcus Vinicius Alves - https://github.com/MarcusVAOliveira
 Jefferson Lainha - github.com/JeffersonLainha
 Luiz Gustavo - github.com/LuizGustavoOliveira
-
