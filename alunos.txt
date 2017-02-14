@@ -4,4 +4,5 @@ Raphael Gomide - github.com/rrgomide
 Luiz Miguel - github.com/luizmiguelsl
 Bruno Feliciano - github.com/bro4lves
 Alexandre Victor - github.com/AlexandreVictor
+Francis Lucas - github.com/francislucasbr
 Rosman Filho - github.com/RosmanFilho
